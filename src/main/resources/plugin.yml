@@ -1,11 +1,11 @@
 ## CHANGE this to the name of your plugin.
-name: SlimefunAddon
+name: Moon
 
 ## CHANGE this to your username.
-author: CHANGEME
+author: hunter
 
 ## CHANGE this to a meaninful but short description of your plugin.
-description: A generic Slimefun4-Addon
+description: This is a Addon for Slimefun plugin
 
 ## CHANGE this to the path of the class that extends JavaPlugin.
 main: me.CHANGEME.slimefunaddon.ExampleAddon
@@ -15,7 +15,7 @@ website: https://github.com/Slimefun/Addon-Template
 
 ## This value is automatically replaced by the version specified in your pom.xml file.
 ## Do not change this.
-version: ${project.version}
+version: 1.18.1
 
 ## This is the minimum minecraft version required to run your plugin.
 api-version: 1.14

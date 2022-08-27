@@ -8,7 +8,7 @@ author: hunter
 description: This is a Addon for Slimefun plugin
 
 ## CHANGE this to the path of the class that extends JavaPlugin.
-main: me.CHANGEME.slimefunaddon.ExampleAddon
+main: me.hunter.moon.MoonAddon
 
 ## You can change this to link to your website or repository. You can also remove this line if you want to.
 website: https://github.com/Slimefun/Addon-Template
